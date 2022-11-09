@@ -4,7 +4,7 @@ Regex is an interesting way for replacing/modifying documents in coding by locat
 
 ## Summary 
 
-Regular expression consists of multiple inferences including: ^, \w, \d, [a-z], [A-Z], and so on. These are locators to identify: strings, text, functions, and other data sets in coding. By utilizing these tools, coders can find and replace, altering data for better use. 
+Regular expression consists of multiple inferences including: ^, \w, \d, [a-z], [A-Z], and so on. These are locators to identify: strings, text, functions, and other data sets in coding. By utilizing these tools, coders can find and replace, altering data for better use.  My regex that I chose was Matching a URL – /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/ 
 
 ## Table of Contents
 
